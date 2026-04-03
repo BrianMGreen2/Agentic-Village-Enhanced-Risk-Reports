@@ -1,6 +1,4 @@
-# Public MD Agentic Village Enhanced Reports
-
-# Enhanced Risk Assessment Report System
+# Enhanced Risk Assessment Report System - AgenticVillage.net
 
 ## Overview
 
